@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+matplotlib
+streamlit_option_menu
+Image
+numpy
+plotly.express
